@@ -1,0 +1,1 @@
+void quick_sort(int *A, long n, long results[]);
