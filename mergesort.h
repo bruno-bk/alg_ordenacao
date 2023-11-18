@@ -1,0 +1,1 @@
+void merge_sort(int *A, int n, long results[]);
